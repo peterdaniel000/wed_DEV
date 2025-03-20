@@ -24,3 +24,14 @@ li a:hover{
     background-color: white;
     color: black;
 }
+
+form{
+    margin: 0px;
+    padding: 0px;
+}
+
+form label{
+    text-decoration: none;
+    color: black;
+    width: 500px;
+}
